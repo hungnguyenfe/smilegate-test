@@ -1,0 +1,27 @@
+$breakpoints: (
+        xs: 0,
+        sm: 576px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px,
+        xxl: 1440px,
+        uhd: 2160px
+);
+
+$container: (
+        xs: 100%,
+        sm: 540px,
+        md: 720px,
+        lg: 960px,
+        xl: 1140px,
+        xxl: 1280px,
+        uhd: 2000px
+);
+
+$colors: (
+        header: #08cc9c,
+        light: #fff,
+        dark: #000
+);
+
+$shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)
